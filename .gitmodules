@@ -1,0 +1,6 @@
+[submodule "OAuthServers/omejdn-server"]
+	path = OAuthServers/omejdn-server
+	url = https://github.com/Fraunhofer-AISEC/omejdn-server.git
+[submodule "OAuthServers/a12n-server"]
+	path = OAuthServers/a12n-server
+	url = https://github.com/curveball/a12n-server.git
